@@ -8,7 +8,7 @@
 SOLUTION CHALLENGE 2023
 ## About the app
 
-<i>asd
+<i>Our solution is a project aimed at eliminating the communication problems that people face after natural disasters. We see this project as a need in Turkey and aim to make it universal in the future, helping people affected by natural disasters worldwide.
 
 ## How to run the app?
 
