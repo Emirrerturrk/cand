@@ -6,6 +6,9 @@
   </a>
 
 SOLUTION CHALLENGE 2023
+## About the app
+
+<i>asd
 
 ## How to run the app?
 
